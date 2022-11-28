@@ -1,4 +1,3 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FfreeCodeCamp%2FfreeCodeCamp&psig=AOvVaw16XIWakreB5sPiA1nO0wyd&ust=1669748501666000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjavoTI0fsCFQAAAAAdAAAAABAE">
 <h1 align="center">Hiya! 👋, I'm Bali</h1>
 <h3 align="center">People say nothing is impossible, but I do nothing every day.</h3>
 
